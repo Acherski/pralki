@@ -8,8 +8,11 @@ export function updateFilterPlaceholder(
 ) {
   if (isFunctionFilter) {
     htmlElement.innerText = washingMachineFunctionDisplayName(
-      filterArr as WashingMachineFunction[], ' +'
+      filterArr as WashingMachineFunction[],
+      " +"
     );
+  } else if (!filterArr.some(isNaN)) {
+    htmlElement!.innerText = filterArr.sort((a, b) => b - a).join(", ");
   } else {
     htmlElement!.innerText = filterArr.sort().join(", ");
   }
