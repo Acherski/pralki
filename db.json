@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "1 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "A",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 1,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "2 WW10T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL"],
+    "capacity": 10.5,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "B",
+    "price": {
+      "value": 2999.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 5,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "3 WW90T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "C",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 145,
+    "img": "https://s3-alpha-sig.figma.com/img/5cd2/ccb5/61cd583d1f73095b58fde18e578a6229?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDuFyX4QcOQE5Ho6Bkc3crVNcewyuGGvuLQjbLj1N61O5sJ5T5o2w54k0x2c6a5NPcN2nSh8fIEBwJyUv~Js1IzhalRl8z8enae0DEKg2i32fstkM0rIkZVUgqdJpPqKPxydQvw9BTFoQV2Hce~BpL7UgZiE2RuHNpRZdlTVEyxAzQPedCyh~chKFumpHXP0waTMr-KYj6gNPC3LIz82c2hO6I6jvENCr3vcMyd1FV96IpVTlwcvF8gYjqgHSXcbSevTMpAHeNy8T-8-IEKQUN9tCTddt3b7ZQ22Y35ZINMcUOosoJvW3mL7l5v5moj~xGl4gZ-7I06odpQOp~s9fA__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "4 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "D",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": false,
+      "value": 0,
+      "amount": 0
+    },
+    "soldAmount": 2,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "5 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "E",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": false,
+      "value": 0,
+      "amount": 0
+    },
+    "soldAmount": 8,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "6 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "F",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": false,
+      "value": 0,
+      "amount": 0
+    },
+    "soldAmount": 58,
+    "img": "https://s3-alpha-sig.figma.com/img/5cd2/ccb5/61cd583d1f73095b58fde18e578a6229?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDuFyX4QcOQE5Ho6Bkc3crVNcewyuGGvuLQjbLj1N61O5sJ5T5o2w54k0x2c6a5NPcN2nSh8fIEBwJyUv~Js1IzhalRl8z8enae0DEKg2i32fstkM0rIkZVUgqdJpPqKPxydQvw9BTFoQV2Hce~BpL7UgZiE2RuHNpRZdlTVEyxAzQPedCyh~chKFumpHXP0waTMr-KYj6gNPC3LIz82c2hO6I6jvENCr3vcMyd1FV96IpVTlwcvF8gYjqgHSXcbSevTMpAHeNy8T-8-IEKQUN9tCTddt3b7ZQ22Y35ZINMcUOosoJvW3mL7l5v5moj~xGl4gZ-7I06odpQOp~s9fA__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "7 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "A",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 59,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "8 WW10T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL"],
+    "capacity": 12,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "B",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 3,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "9 WW90T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "C",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 45,
+    "img": "https://s3-alpha-sig.figma.com/img/5cd2/ccb5/61cd583d1f73095b58fde18e578a6229?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDuFyX4QcOQE5Ho6Bkc3crVNcewyuGGvuLQjbLj1N61O5sJ5T5o2w54k0x2c6a5NPcN2nSh8fIEBwJyUv~Js1IzhalRl8z8enae0DEKg2i32fstkM0rIkZVUgqdJpPqKPxydQvw9BTFoQV2Hce~BpL7UgZiE2RuHNpRZdlTVEyxAzQPedCyh~chKFumpHXP0waTMr-KYj6gNPC3LIz82c2hO6I6jvENCr3vcMyd1FV96IpVTlwcvF8gYjqgHSXcbSevTMpAHeNy8T-8-IEKQUN9tCTddt3b7ZQ22Y35ZINMcUOosoJvW3mL7l5v5moj~xGl4gZ-7I06odpQOp~s9fA__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "10 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "D",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 57,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "11 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "E",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 544,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "12 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "F",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 105,
+    "img": "https://s3-alpha-sig.figma.com/img/5cd2/ccb5/61cd583d1f73095b58fde18e578a6229?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDuFyX4QcOQE5Ho6Bkc3crVNcewyuGGvuLQjbLj1N61O5sJ5T5o2w54k0x2c6a5NPcN2nSh8fIEBwJyUv~Js1IzhalRl8z8enae0DEKg2i32fstkM0rIkZVUgqdJpPqKPxydQvw9BTFoQV2Hce~BpL7UgZiE2RuHNpRZdlTVEyxAzQPedCyh~chKFumpHXP0waTMr-KYj6gNPC3LIz82c2hO6I6jvENCr3vcMyd1FV96IpVTlwcvF8gYjqgHSXcbSevTMpAHeNy8T-8-IEKQUN9tCTddt3b7ZQ22Y35ZINMcUOosoJvW3mL7l5v5moj~xGl4gZ-7I06odpQOp~s9fA__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "13 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "A",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 1,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "14 WW10T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL"],
+    "capacity": 10.5,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "B",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 65,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "15 WW90T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "C",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 95,
+    "img": "https://s3-alpha-sig.figma.com/img/5cd2/ccb5/61cd583d1f73095b58fde18e578a6229?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDuFyX4QcOQE5Ho6Bkc3crVNcewyuGGvuLQjbLj1N61O5sJ5T5o2w54k0x2c6a5NPcN2nSh8fIEBwJyUv~Js1IzhalRl8z8enae0DEKg2i32fstkM0rIkZVUgqdJpPqKPxydQvw9BTFoQV2Hce~BpL7UgZiE2RuHNpRZdlTVEyxAzQPedCyh~chKFumpHXP0waTMr-KYj6gNPC3LIz82c2hO6I6jvENCr3vcMyd1FV96IpVTlwcvF8gYjqgHSXcbSevTMpAHeNy8T-8-IEKQUN9tCTddt3b7ZQ22Y35ZINMcUOosoJvW3mL7l5v5moj~xGl4gZ-7I06odpQOp~s9fA__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "16 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "D",
+    "price": {
+      "value": 6199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 584,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "17 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "E",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 745,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "18 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "F",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 145,
+    "img": "https://s3-alpha-sig.figma.com/img/5cd2/ccb5/61cd583d1f73095b58fde18e578a6229?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDuFyX4QcOQE5Ho6Bkc3crVNcewyuGGvuLQjbLj1N61O5sJ5T5o2w54k0x2c6a5NPcN2nSh8fIEBwJyUv~Js1IzhalRl8z8enae0DEKg2i32fstkM0rIkZVUgqdJpPqKPxydQvw9BTFoQV2Hce~BpL7UgZiE2RuHNpRZdlTVEyxAzQPedCyh~chKFumpHXP0waTMr-KYj6gNPC3LIz82c2hO6I6jvENCr3vcMyd1FV96IpVTlwcvF8gYjqgHSXcbSevTMpAHeNy8T-8-IEKQUN9tCTddt3b7ZQ22Y35ZINMcUOosoJvW3mL7l5v5moj~xGl4gZ-7I06odpQOp~s9fA__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "19 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 5,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "A",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 255,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "20 WW10T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL"],
+    "capacity": 10.5,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "B",
+    "price": {
+      "value": 2199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": false,
+      "value": 0,
+      "amount": 0
+    },
+    "soldAmount": 5,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  },
+  {
+    "name": "Pralka EcoBubble&#8482",
+    "model": "21 WW90T654DLH",
+    "color": "WHITE",
+    "functions": ["PANEL_AI_CONTROL", "ELECTRONIC_DISPLAY"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "C",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 10005,
+    "img": "https://s3-alpha-sig.figma.com/img/5cd2/ccb5/61cd583d1f73095b58fde18e578a6229?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDuFyX4QcOQE5Ho6Bkc3crVNcewyuGGvuLQjbLj1N61O5sJ5T5o2w54k0x2c6a5NPcN2nSh8fIEBwJyUv~Js1IzhalRl8z8enae0DEKg2i32fstkM0rIkZVUgqdJpPqKPxydQvw9BTFoQV2Hce~BpL7UgZiE2RuHNpRZdlTVEyxAzQPedCyh~chKFumpHXP0waTMr-KYj6gNPC3LIz82c2hO6I6jvENCr3vcMyd1FV96IpVTlwcvF8gYjqgHSXcbSevTMpAHeNy8T-8-IEKQUN9tCTddt3b7ZQ22Y35ZINMcUOosoJvW3mL7l5v5moj~xGl4gZ-7I06odpQOp~s9fA__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "22 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "D",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": true,
+      "value": 53.31,
+      "amount": 60
+    },
+    "soldAmount": 5,
+    "img": "https://s3-alpha-sig.figma.com/img/4e08/a31e/8b634cbc6575c09aa52521b676fe70fc?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0ufyyMSXWoBnr0ymunRd8Q~oU2RWpfIblN5NesjzXGanE6nqJobx1XxYNIXKOCwrKgPl7XHnkXxSoQLjpwuZ3zp6yUXxZHbuk3-Ko5WKDnqxX5PXPLkfN0~1JL9mvUpoW0Bk3wNx1rTwKGuAVG5POZGEAZ3vvxhn0Y~0URG~-ROGckR2bsLRMWqaVRKt9pUmkrEkYnZvyrPSegklWv3BNwzd2mISXI7dl7VVN0yqAxaNq4h4Tj-NjYHdtad9y9xXcmY23hxqbc796JTAU2qjzR~OEQ3d90Q7g6BdKquBZd4KdalFSIMmQNT9IEhqgxRLuJyPCOKxSTcHsrRYmHWUw__"
+  },
+  {
+    "name": "Pralka QuickDrive&#8482",
+    "model": "23 WW90T754ABT",
+    "color": "WHITE",
+    "functions": ["ADD_WASH", "PANEL_AI_CONTROL"],
+    "capacity": 9,
+    "dimensions": {
+      "width": 55,
+      "depth": 60,
+      "height": 85
+    },
+    "energyEfficiency": "E",
+    "price": {
+      "value": 3199.0,
+      "date_from": "2022-09-15",
+      "date_to": "2022-09-21"
+    },
+    "instalment": {
+      "availability": false,
+      "value": 0,
+      "amount": 0
+    },
+    "soldAmount": 5,
+    "img": "https://s3-alpha-sig.figma.com/img/2f77/5bf7/29788817dcdbb04bb6f304b138151d4a?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ste9blTdK3Rr0r~Hh9xAhtooCQ3Th~5jGOJhUAR0ewWkve5MrNXgOty-f34OZeSagXNj6hMpWN~Cl62E~2dlwo8MWc~LAfYJWy1ZR-t8Rej4NEL9aRZIVm7MDbK7oDvIpvu1OJL9Hkx4qBkz-RqqTBWDsmvQPnFdfHb~hQD2d6fb3sRyLVtPPMJ91hyWh68CwbNz46xaYWX0F0opN~v8vZgVJBLBakBTV7Ip2FlGu8VvwUp-E0wBRZPbRYiZbwOS-UUTD5qGGaG3kFWFewGoJQBw2MdtRXeZzKA2kro0Ggj8jOYuwOXmXzATGLR7jJPp7T1ouSSwcfO2bNLImInbqQ__"
+  }
+]

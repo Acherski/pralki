@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="https://static-00.iconduck.com/assets.00/samsung-s-icon-1024x1024-rii484fp.png"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Pralki SAMSUNG</title>
+  </head>
+  <body>
+    <div class="main">
+      <div>
+        <h1 class="main-title">Wybierz urządzenie</h1>
+        <div class="searchbox-container">
+          <input id="searchbox" class="filter-input" placeholder="Search..." />
+        </div>
+
+        <div class="filters-container">
+          <!-- SORT -->
+          <div class="filter">
+            <span class="filter-name">Sortuj po:</span>
+            <div class="filter-input-arrow"></div>
+            <div id="sortOptions" class="multiple-select">
+              <span id="sortOptionsTitle" class="multiple-select-name">
+                Popularność
+              </span>
+              <div
+                id="sortOptionsContainer"
+                class="multiple-select-options"
+                style="visibility: hidden"
+              >
+                <!-- JS generated sorting options -->
+              </div>
+            </div>
+          </div>
+
+          <!-- WASHING MACHINE FUNCTIONS FILTER -->
+          <div class="filter">
+            <span class="filter-name">Funkcje:</span>
+            <div class="filter-input-arrow"></div>
+            <div id="selectFunctionsFilter" class="multiple-select">
+              <span id="selectFunctionsTitle" class="multiple-select-name">
+                Wszystkie
+              </span>
+              <div
+                id="selectFunctionsOptions"
+                class="multiple-select-options"
+                style="visibility: hidden"
+              >
+                <!-- JS generated options -->
+              </div>
+            </div>
+          </div>
+
+          <!-- ENERGY EFFICIENCY CLASS FILTER -->
+          <div class="filter">
+            <span class="filter-name">Klasa energetyczna:</span>
+            <div class="filter-input-arrow"></div>
+            <div id="energyEfficiencyFilter" class="multiple-select">
+              <span
+                id="energyEfficiencyFilterTitle"
+                class="multiple-select-name"
+              >
+                Wszystkie
+              </span>
+              <div
+                id="energyEfficiencyFilterOptions"
+                class="multiple-select-options"
+                style="visibility: hidden"
+              >
+                <!-- JS generated options -->
+              </div>
+            </div>
+          </div>
+
+          <!-- CAPACITY FILTER -->
+          <div class="filter">
+            <span class="filter-name">Pojemność:</span>
+            <div class="filter-input-arrow"></div>
+            <div id="capacityFilter" class="multiple-select">
+              <span id="capacityFilterTitle" class="multiple-select-name">
+                Wszystkie
+              </span>
+              <div
+                id="capacityFilterOptions"
+                class="multiple-select-options"
+                style="visibility: hidden"
+              >
+                <!-- JS generated options -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="results-counter-container">
+          <span id="resultCounter" class="amount-of-records"></span>
+        </div>
+
+        <div id="tiles" class="tiles"></div>
+
+        <div class="btn-show-more-container">
+          <button id="showMoreBtn" class="btn-secondary">
+            Pokaż więcej
+            <div class="btn-arrow"></div>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var exports = {};
+    </script>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
